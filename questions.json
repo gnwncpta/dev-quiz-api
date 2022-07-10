@@ -1,0 +1,9 @@
+[
+    { "question": "Who was created JavaScript ?", "answer": "a", "options": [ "Brendan Eich", "Evan You", "Ryan Dahl", "Google" ] },
+    { "question": "Who was created HTTP ?", "answer": "c", "options": [ "Guido van Rossum", "Facebook", "Tim Berners Lee", "Larry Page" ] },
+    { "question": "What is WWW stand for ?", "answer": "b", "options": [ "World Web Wide", "World Wide Web", "World Wide Wide", "World Web Wow" ] },
+    { "question": "Who was created CSS ?", "answer": "a", "options": [ "W3C", "Mozilla", "Facebook", "ARPANET" ] },
+    { "question": "What year released of Node JS ?", "answer": "b", "options": [ "2008", "2009", "2010", "2011" ] },
+    { "question": "What is CSS stand for ?", "answer": "a", "options": [ "Cascading Style Sheet", "Cascading Style Sub", "Cascading Styling Sheet", "Cascading Styling Style" ] },
+    { "question": "Who was created Node JS ?", "answer": "d", "options": [ "Ray Tomlinson", "Tim Berners Lee", "Google", "Ryan Dahl" ] }
+]
