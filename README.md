@@ -8,7 +8,7 @@ If you are new with Bun.js please consider to read the docs <a href="https://bun
 ### - Start Project
 - Open `dev-quiz-api` dir on terminal
 - Install dependencies `bun install`
-- run `bun http.js`
+- run `bun app.js`
 
 ### Install Dependencies on Bun ?
 - run `bun install`
