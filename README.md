@@ -17,6 +17,18 @@ If you are new with Bun.js please consider to read the docs <a href="https://bun
 ### - Environment Variables
 - `API_URL` is referred to API server url so make sure to change to your server url
 
+> ## Fix chalk error
+if you found this error on you console
+```bash
+error: Could not resolve: "#ansi-styles". Maybe you need to "bun install"?
+import ansiStyles from '#ansi-styles';
+                       ^
+...
+error: Could not resolve: "#supports-color". Maybe you need to "bun install"?
+import supportsColor from '#supports-color';
+                          ^
+```
+To solve this problem you need to remove the `#` in the beginning on `/node_modules/chalk/source/index.js` import code
 
 ### Tech Stacks:
 <div style="margin-top: 20px; display: flex;">
